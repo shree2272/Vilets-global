@@ -64,7 +64,7 @@ body {
     align-items: left;
 }
 #abtimg{
-    background-image: url(book.jpg);
+    background-image: url("book.jpg");
     background-size :cover;
     background-repeat: no-repeat;
     background-position: center;
